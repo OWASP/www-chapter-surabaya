@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Cahyo Darujati](mailto:cahyo.darujati@owasp.org)
+* [Moh Noor A-Azam](mailto:mohnoor.a-azam@owasp.org)
