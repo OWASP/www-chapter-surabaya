@@ -27,11 +27,11 @@ The Open Web Application Security Project (OWASP) adalah Yayasan Nirlaba yang be
 
 {% include chapter_events.html group=page.meetup-group %}
 
-## Project Volunteering
+## Relawan Proyek
 
 OWASP Chapter Surabaya akan segera mengumumkan kegiatan ini.
 
-## Project On Progress
+## Proyek yang dikerjakan
 
 Berikut ini adalah daftar Proyek yang akan diluncurkan oleh OWASP Surabaya Chapter
 Projects Members
