@@ -1,6 +1,6 @@
 ---
 
-layout: col-sidebar
+layout:
 title: OWASP Surabaya
 tags: OWASP Surabaya
 level: 0
