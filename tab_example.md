@@ -1,16 +1,11 @@
 ---
-title: About Us
-displaytext: About Us
+title: Example
 layout:  null
 tab: true
-order: 2
-tags: Surabaya
+order: 1
+tags: example-tag
 ---
 
-## About OWASP SURABAYA
+## Example
 
-![OWASP SURABAYA](https://owasp.org/www-chapter-surabaya\assets\images\logo-owasp-surabaya.jpg)
-
-![OWASP20thAnniversary1]( https://owasp.org/www-chapter-surabaya/assets/images/OWASP%2020th%20Anniversary.jpeg)
-
-
+Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
