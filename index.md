@@ -20,6 +20,9 @@ Saat ini, OWASP Surabaya telah memiliki beberapa proyek terkait Aplikasi Keamana
 
 Semua sektor yang ingin berkontribusi dan menjadi sponsor sangat kami persilahkan. Mari berdiskusi dengan kami melalui; [Cahyo Darujati](mailto:cahyo.darujati@owasp.org).
 
+## OWASP Surabaya Bangga Merayakan Hari Jadi OWASP ke-20.
+[![OWASP 20th Anniversary Image](assets/images/owasp-20th-anniversary.jpeg)](https://20thanniversary.owasp.org/)
+
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
