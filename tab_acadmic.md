@@ -1,9 +1,9 @@
 ---
-title: Academic Partner
+title: Academic
 layout:  null
 tab: true
 order: 1
-tags: Academic Parter OWASP Surabaya Chapter
+tags: Academic-tag
 ---
 
 ## Example
