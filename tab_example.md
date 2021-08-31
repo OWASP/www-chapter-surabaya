@@ -1,15 +1,16 @@
 ---
-
-title: academicsupporter
-displaytext: Academic Suporter
-layout:
+title: About Us
+displaytext: About Us
+layout:  null
 tab: true
-order: 8
+order: 2
 tags: Surabaya
-
 ---
 
-## Academic Supporter
+## About OWASP SURABAYA
 
-Kami bekerjasama dengan Perguruan Tinggi, sbb:<br>
-1. Universitas Narotama di Kota Surabaya, Jawa Timur (http://www.narotama.ac.id/)
+![OWASP SURABAYA](https://owasp.org/www-chapter-surabaya\assets\images\logo-owasp-surabaya.jpg)
+
+![OWASP20thAnniversary1]( https://owasp.org/www-chapter-surabaya/assets/images/OWASP%2020th%20Anniversary.jpeg)
+
+
