@@ -1,13 +1,13 @@
 ---
 
-layout: col-sidebar
-title: OWASP Surabaya
-tags: OWASP Surabaya
-level: 0
-region: Asia
-meetup-group: OWASP-Surabaya-Chapter
-country: Indonesia
-postal-code: 
+layout:	col-sidebar
+title:	OWASP Surabaya
+tags:	OWASP Surabaya
+level:	0
+region:	Asia
+meetup-group:	OWASP-Surabaya-Chapter
+country:	Indonesia
+postal-code:	60117 
 
 ---
 
