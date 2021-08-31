@@ -8,6 +8,9 @@ meetup-group:
 
 ---
 
+## Banner OWASP Surabaya Chapter
+[![Banner OWASP Chapter Surabaya](assets/images/logo-owasp-surabaya.jpeg)](https://owasp.org/www-chapter-surabaya/)
+
 ## Welcome
 Selamat datang di Komunitas [OWASP Chapter Surabaya](https://owasp.org/www-chapter-surabaya/). Kami adalah Organisasi Nirlaba yang akan menyelenggarakan beberapa agenda diantaranya pertemuan daring dan luring, baik secara rutin terjadwal sepanjang tahun ataupun dadakan.
 
@@ -15,7 +18,7 @@ Kami sangat berharap dan senang sekali mengundang rekan-rekan seluruh kota-kota 
 
 Saat ini, OWASP Surabaya telah memiliki beberapa proyek terkait Aplikasi Keamanan Web, diantaranya adalah: KokokBeluk, Internet Monitoring System for Higher Education.
 
-Semua sektor yang ingin berkontribusi dan menjadi sponsor sangat kami persilahkan. Mari berdiskusi dengan kami melalui; [Cahyo Darujati](cahyo.darujati@owasp.org).
+Semua sektor yang ingin berkontribusi dan menjadi sponsor sangat kami persilahkan. Mari berdiskusi dengan kami melalui; [Cahyo Darujati](mailto:cahyo.darujati@owasp.org).
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
