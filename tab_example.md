@@ -2,7 +2,7 @@
 
 title: academicsupporter
 displaytext: Academic Suporter
-layout: col-sidebar
+layout:
 tab: true
 order: 8
 tags: Surabaya
