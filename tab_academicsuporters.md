@@ -1,9 +1,9 @@
 ---
-title: Academic Supporters
+title: academicsupporters
 layout: null
 tab: true
 order: 2
-tags: exampleOff-tag
+tags: example-tag
 ---
 
 ## Academic Supporters
