@@ -1,12 +1,10 @@
 ---
-
 title: academicsupporters
 displaytext: Academic Suporters
-layout: col-sidebar
+layout: null
 tab: true
-order: 8
+order: 2
 tags: academic-suporters
-
 ---
 
 ## Academic Supporters
