@@ -1,6 +1,6 @@
 ---
 title: Events
-layout:  null
+layout: null
 tab: true
 order: 1
 tags: events-tag
