@@ -8,9 +8,6 @@ meetup-group:
 
 ---
 
-## Banner OWASP Surabaya Chapter
-[![Banner OWASP Chapter Surabaya](assets/images/logo-owasp-surabaya.jpeg)](https://owasp.org/www-chapter-surabaya/)
-
 ## Welcome
 Selamat datang di Komunitas [OWASP Chapter Surabaya](https://owasp.org/www-chapter-surabaya/). Kami adalah Organisasi Nirlaba yang akan menyelenggarakan beberapa agenda diantaranya pertemuan daring dan luring, baik secara rutin terjadwal sepanjang tahun ataupun dadakan.
 
