@@ -29,7 +29,7 @@ Setiap orang kami persilahkan dan diharapkan berpartisipasi pada [Projects](/pro
 
 Terima Kasih untuk semua [Para Pendukung](https://owasp.org/www-chapter-surabaya/#div-supporters) kami.
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+## Next Meeting/Event 
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
