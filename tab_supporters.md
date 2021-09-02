@@ -12,7 +12,7 @@ tags: example-tag
 * [PT. Ronar Indonesia](http://ronar.net)
 
 ## Perguruan Tinggi
-* [Universitas Narotama, Surabaya](http://narotama.ac.id)
+* [Fakultas Ilmu Komputer, Universitas Narotama, Kota Surabaya](https://fasilkom.narotama.ac.id/)
 
 ## Komunitas
 * [Cyber Security Indonesia](mailto:ketua@cybersecurity.or.id)
