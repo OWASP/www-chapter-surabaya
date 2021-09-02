@@ -15,7 +15,7 @@ Kami sangat berharap dan senang sekali mengundang rekan-rekan seluruh kota-kota 
 
 Saat ini, OWASP Surabaya telah memiliki beberapa proyek terkait Aplikasi Keamanan Web, diantaranya adalah: KokokBeluk, Internet Monitoring System for Higher Education.
 
-Semua sektor yang ingin berkontribusi dan menjadi sponsor sangat kami persilahkan. Mari berdiskusi dengan kami melalui; [Cahyo Darujati](mailto:cahyo.darujati@owasp.org).
+Semua sektor yang ingin berkontribusi dan menjadi sponsor sangat kami persilahkan. Mari berdiskusi dengan kami melalui Email [Surabaya Leaders](mailto:surabaya-leaders@owasp.org).
 
 ## OWASP Surabaya Bangga Merayakan Hari Jadi OWASP ke-20.
 [![OWASP 20th Anniversary Image](assets/images/owasp-20th-anniversary.jpeg)](https://20thanniversary.owasp.org/)
@@ -25,7 +25,7 @@ The Open Web Application Security Project (OWASP) adalah lembaga Nirlaba yang be
 
 Chapters diarahkan oleh leaders lokal sesuai dengan [Chapters Policy](/www-policy/operational/chapters). Kontribusi Finansial hanya dilakukan secara daring menggunakan tombol donasi tepercaya. Untuk menjadi PEMBICARA/NARASUMBER pada setiap OWASP Chapter di seluruh dunia menggunakan review sederhana [speaker agreement](/www-policy/legal/speaker-agreement) dan kemudian menghubungi leader chapter lokal dengan menyampaikan secara detil apa yang akan disajikan Proyek OWASP yang dikerjakan, penelitian independen, atau terkait dengan topik KEAMANAN PIRANTI LUNAK.
 
-Setiap orang kami persilahkan dan diharapkan berpartisipasi pada [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, dan [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. Kami khususnya berpartisipasi khusus pada semua INITIATIVES. OWASP adalah tempat fantastis untuk belajar tentang KEAMANAN APLIKASI, untuk Jaringan, dan untuk membangun reputasi sebagai seorang AHLI. Kami juga mengharapkan anda untuk menjadi [become a member](/membership/) atau sekedar [donation](/donate/) untuk mendukung pekerjaan kami yang berjalan.
+Setiap orang kami persilahkan dan diharapkan berpartisipasi pada [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.org/g/surabaya-chapter){:target='_blank'}, dan [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. Kami khususnya berpartisipasi khusus pada semua INITIATIVES. OWASP adalah tempat fantastis untuk belajar tentang KEAMANAN APLIKASI, untuk Jaringan, dan untuk membangun reputasi sebagai seorang AHLI. Kami juga mengharapkan anda untuk menjadi [become a member](/membership/) atau sekedar [donation](/donate/) untuk mendukung pekerjaan kami yang berjalan.
 
 Terima Kasih untuk semua [Para Pendukung](https://owasp.org/www-chapter-surabaya/#div-supporters) kami.
 
