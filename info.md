@@ -7,6 +7,6 @@
 
 ### Social Links
 * [Facebook](https://www.facebook.com/owaspsurabaya)
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/owasp-surabaya-chapter/)
 
 
