@@ -1,4 +1,5 @@
 ---
+
 title: Struktur
 layout: null
 tab: true
