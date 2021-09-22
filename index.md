@@ -27,6 +27,8 @@ Chapters diarahkan oleh leaders lokal sesuai dengan [Chapters Policy](/www-polic
 
 Setiap orang kami persilahkan dan diharapkan berpartisipasi pada [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.org/g/surabaya-chapter){:target='_blank'}, dan [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. Kami khususnya berpartisipasi khusus pada semua INITIATIVES. OWASP adalah tempat fantastis untuk belajar tentang KEAMANAN APLIKASI, untuk Jaringan, dan untuk membangun reputasi sebagai seorang AHLI. Kami juga mengharapkan anda untuk menjadi [become a member](/membership/) atau sekedar [donation](/donate/) untuk mendukung pekerjaan kami yang berjalan.
 
+[Struktur Organisasi](https://owasp.org/www-chapter-surabaya/#div-structures)
+
 Terima Kasih untuk semua [Para Pendukung](https://owasp.org/www-chapter-surabaya/#div-supporters) kami.
 
 ## Next Meeting/Event 
