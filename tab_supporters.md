@@ -8,9 +8,9 @@ tags: example-tag
 ---
 
 ## Perusahaan
-* [PT. Radnet Digital Indonesia](http://radnet-digital.id)
-* [PT. Jolo Sutro Kencono](mailto:pt.jolosutrokencono@gmail.com)
-* [PT. Ronar Indonesia](http://ronar.net)
+* [PT. Radnet Digital Indonesia](https://radnet-digital.id)
+* [PT. Prasarana Digital Indonesia](https://prasarana-digital.id)
+* [PT. Ronar Indonesia](https://ronar.net)
 
 ## Perguruan Tinggi
 * [Fakultas Ilmu Komputer, Universitas Narotama, Kota Surabaya](https://fasilkom.narotama.ac.id/)
