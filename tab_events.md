@@ -7,7 +7,7 @@ tags: example-tag
 ---
 ### 2023
 * [Coming Soon](https://owasp.org/www-chapter-surabaya/)
-* [12 Juli 2023. Lembaga Keuangan Mikro dan BPRS. Topik: Cybersecurity Awareness di LKM dan BPRS.](https://owasp.org/www-chapter-surabaya/)
+* 12 Juli 2023. Lembaga Keuangan Mikro dan BPRS. Topik: Cybersecurity Awareness di LKM dan BPRS.
 * [26 Mei 2023. Mahasiswa ITTELKOM Surabaya. Topik: Pentingnya Keamanan Siber bagi Mahasiswa di Era Serba Digital.](https://owasp.org/www-chapter-surabaya/)
 * [16 Mei 2023. Terbatas. Topik: KOLABORASI, Peluang Riset dan Implementasi IoT dan AI di Indonesia serta Teknik Pengamanannya.](https://owasp.org/www-chapter-surabaya/)
 ### 2022
