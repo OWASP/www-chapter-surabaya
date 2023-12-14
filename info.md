@@ -7,6 +7,7 @@
 * [Pedoman Etika](https://owasp.org/www-policy/operational/conferences-events.html)
 
 ### Social Links
+* [WhatsApp](https://chat.whatsapp.com/FwYHyu0AUwACmvtIcoWMP0)
 * [Facebook](https://www.facebook.com/owaspsurabaya)
 * [Meetup](https://www.meetup.com/owasp-surabaya-chapter/)
 
