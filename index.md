@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Surabaya
 tags: example-tag
 region: Asia
+country: Indonesia
 meetup-group: owasp-surabaya-chapter
 
 ---
