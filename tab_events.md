@@ -9,6 +9,8 @@ tags: example-tag
 Kegiatan-Kegiatan Seru kami:
 ## 2024
 * Coming Soon
+* 14 September 2024. Peserta: Terbatas; Topik: Fundamental OWASP ZAP. [link] (https://www.meetup.com/owasp-surabaya-chapter/events/303423861/)
+* 25 Mei 2024. Peserta: Terbatas; Topik: Menjadi Ahli Keamanan Siber Dengan Wazuh: Pengenalan Untuk Pemula. [link] (https://www.meetup.com/owasp-surabaya-chapter/events/301152307/)
 ## 2023
 * 08 Desember 2023. Peserta: Umum; Topik: Pengenalan Dasar Pengujian Website Menggunakan OWASPZAP. [link](https://www.instagram.com/p/C0s7zypL4Jl/?img_index=2)
 * 12 Juli 2023. Peserta: Lembaga Keuangan Mikro dan BPRS; Topik: Cybersecurity Awareness di LKM dan BPRS.[link](https://www.instagram.com/p/CuO3EA4rQNF/?utm_source=ig_web_copy_link&igshid=YzZhZTZiNWI3Nw==)
