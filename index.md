@@ -22,7 +22,7 @@ Semua sektor yang ingin berkontribusi dan menjadi sponsor sangat kami persilahka
 [![OWASP 20th Anniversary Image](assets/images/owasp-20th-anniversary.jpeg)](https://20thanniversary.owasp.org/)
 
 ## Participation
-The Open Web Application Security Project (OWASP) adalah lembaga Nirlaba yang bekerja untuk memperbaiki KEAMANAN PIRANTI LUNAK. Semua proyek, peralatan dokumen, pertemuan dan chapter adalah BEBAS dan TERBUKA untuk setiap orang yang tertarik mengembangkan KEAMANAN APLIKASI. 
+The Open Worldwide Application Security Project (OWASP) adalah lembaga Nirlaba yang bekerja untuk memperbaiki KEAMANAN PIRANTI LUNAK. Semua proyek, peralatan dokumen, pertemuan dan chapter adalah BEBAS dan TERBUKA untuk setiap orang yang tertarik mengembangkan KEAMANAN APLIKASI. 
 
 Chapters diarahkan oleh leaders lokal sesuai dengan [Chapters Policy](/www-policy/operational/chapters). Kontribusi Finansial hanya dilakukan secara daring menggunakan tombol donasi tepercaya. Untuk menjadi PEMBICARA/NARASUMBER pada setiap OWASP Chapter di seluruh dunia menggunakan review sederhana [speaker agreement](/www-policy/legal/speaker-agreement) dan kemudian menghubungi leader chapter lokal dengan menyampaikan secara detil apa yang akan disajikan Proyek OWASP yang dikerjakan, penelitian independen, atau terkait dengan topik KEAMANAN PIRANTI LUNAK.
 
