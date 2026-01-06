@@ -8,10 +8,11 @@ country: Indonesia
 meetup-group: owasp-surabaya-chapter
 
 ---
-> On February 15, 2023
->> the OWASP Global Board voted to change the OWASP® backronym officially from Web to Worldwide. “Resolved that the Foundation will change all current and future references of the ‘Open Web Application Security Project’ to the ‘Open Worldwide Application Security Project.” 
 
 ## Welcome
+<blockquote>
+On February 15, 2023. the OWASP Global Board voted to change the OWASP® backronym officially from Web to Worldwide. “Resolved that the Foundation will change all current and future references of the ‘Open Web Application Security Project’ to the ‘Open Worldwide Application Security Project.” 
+</blockquote>
 Selamat datang di Komunitas [OWASP Chapter Surabaya](https://owasp.org/www-chapter-surabaya/). Kami adalah Organisasi Nirlaba yang akan menyelenggarakan beberapa agenda diantaranya pertemuan daring dan luring, baik secara rutin terjadwal sepanjang tahun ataupun dadakan.
 
 Kami sangat berharap dan senang sekali mengundang rekan-rekan seluruh kota-kota di Jawa Timur pada khususnya dan Indonesia Timur pada umumnya untuk bergabung, berbagi pengalaman, pengetahuan dan semua yang terkait, baik langsung ataupun tidak untuk membuat proyek OWASP Surabaya yang menguntungkan semua orang.
