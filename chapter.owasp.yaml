@@ -1,0 +1,25 @@
+leaders:
+  - name: Cahyo Darujati
+    email: cahyo.darujati@owasp.org
+    github: cahnaro
+  - name: Moh Noor A-Azam
+    email: noor.azam@owasp.org
+    github: noorazam
+location:
+  country: Indonesia
+  country_code: ID
+  region: East Java
+  city: Surabaya
+  latitude: -7.2459717
+  longitude: 112.7378266
+meetup_group: owasp-surabaya-chapter
+name: OWASP Surabaya
+repositories:
+  - name: www-chapter-surabaya
+    url: https://github.com/OWASP/www-chapter-surabaya
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-surabaya
